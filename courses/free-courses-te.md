@@ -135,6 +135,7 @@
 * [Dart & Flutter Tutorials in Telugu](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUXoDYMCpMwHNHz875lzTRcH) - Kotha Abhishek (Chintu Tutorials)
 * [Dart Tutorial for Flutter in Telugu](https://www.youtube.com/watch?v=TvSK-451TcA) - Sai Gopi (Sai Gopi)
 * [Flutter Andorid App Beginner Tutorials Telugu](https://www.youtube.com/playlist?list=PLbVPygGblyBwT55MkWTpFeBJdyymx1MIV) - Vamshee (codewithvamshee)
+* [Introduction Tutorial for Flutter Telugu](https://www.youtube.com/watch?v=o_9Xkjv6irI&list=PLSBsoHVIf9kIdfulC3_vDbkF3o0j-34Jr) - Trinetra Telgu (Trinetra Telgu)
 
 
 ### Java
